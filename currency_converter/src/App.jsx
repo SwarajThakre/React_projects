@@ -29,7 +29,7 @@ function App() {
         backgroundImage: `url("https://images.pexels.com/photos/210574/pexels-photo-210574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2")`,
       }}
     >
-      <div className="w-full">
+      <div className="w-full max-w-md mx-auto">
         <div className="w-full max-w-md border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30 ">
           <h1 className="text-3xl font-bold mb-4">Currency Converter</h1>
           <form
