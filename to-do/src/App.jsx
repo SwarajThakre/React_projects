@@ -53,9 +53,7 @@ function App() {
         <div className="max-w-md mx-auto">
           {/* Header */}
           <div className="text-center mb-10">
-            <h1 className="text-3xl font-bold text-indigo-600 mb-2">
-              Task Manager
-            </h1>
+            <h1 className="text-3xl font-bold text-indigo-600 mb-2">Taskify</h1>
             <p className="text-gray-500">Organize your day with ease</p>
           </div>
 
