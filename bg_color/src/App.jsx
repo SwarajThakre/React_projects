@@ -4,9 +4,6 @@ import './App.css';
 function App() {
   const [color, setColor] = useState('blue');
 
-  // function changeColor(color) {
-  //   setColor(color);
-  // }
   return (
     <div
       className="w-full h-screen flex items-center justify-center bg-blue-600"
